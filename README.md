@@ -1,1 +1,2 @@
-An amazing project
+THIS IS A REPO TO MAKE A PYTHOON LIST
+
